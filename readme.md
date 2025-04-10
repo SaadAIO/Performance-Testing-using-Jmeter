@@ -43,7 +43,4 @@ The dashboard includes:
 - Latency Breakdown
 - Requests per Second
 
----
-
-## 📁 Project Structure
 
